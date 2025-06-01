@@ -1,0 +1,38 @@
+{
+  "rms_energy": {
+    "pretrained_mean": 0.19005261361598969,
+    "pretrained_std": 0.07826114055872156,
+    "trained_mean": 0.13247255980968475,
+    "trained_std": 0.046425955161342305,
+    "t_statistic": 0.8948851369877919,
+    "p_value": 0.42143056955166786,
+    "significant": false
+  },
+  "spectral_centroid_mean": {
+    "pretrained_mean": 2083.8519564638223,
+    "pretrained_std": 902.6014874476765,
+    "trained_mean": 2822.4375902107313,
+    "trained_std": 309.32055876439824,
+    "t_statistic": -1.0947304700693392,
+    "p_value": 0.33513054795721053,
+    "significant": false
+  },
+  "tempo": {
+    "pretrained_mean": 122.89204097714736,
+    "pretrained_std": 30.815390994137353,
+    "trained_mean": 125.28801843317972,
+    "trained_std": 6.109793616243205,
+    "t_statistic": -0.10785920433848896,
+    "p_value": 0.9193010610729093,
+    "significant": false
+  },
+  "chroma_mean": {
+    "pretrained_mean": 0.4581679105758667,
+    "pretrained_std": 0.054262681979396876,
+    "trained_mean": 0.5080690085887909,
+    "trained_std": 0.05513373502587811,
+    "t_statistic": -0.9122696631585745,
+    "p_value": 0.4132354170216852,
+    "significant": false
+  }
+}
