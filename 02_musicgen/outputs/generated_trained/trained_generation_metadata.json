@@ -1,0 +1,23 @@
+[
+  {
+    "file": "outputs\\generated_trained\\trained_sample_001.wav",
+    "prompt": "pop music with piano melody",
+    "duration": 15.0,
+    "sample_rate": 32000,
+    "model": "trained_musicgen_pop909"
+  },
+  {
+    "file": "outputs\\generated_trained\\trained_sample_002.wav",
+    "prompt": "upbeat pop song with drums and bass",
+    "duration": 15.0,
+    "sample_rate": 32000,
+    "model": "trained_musicgen_pop909"
+  },
+  {
+    "file": "outputs\\generated_trained\\trained_sample_003.wav",
+    "prompt": "melodic pop ballad with guitar",
+    "duration": 15.0,
+    "sample_rate": 32000,
+    "model": "trained_musicgen_pop909"
+  }
+]
