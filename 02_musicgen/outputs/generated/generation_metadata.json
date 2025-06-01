@@ -1,0 +1,14 @@
+[
+  {
+    "file": "outputs\\generated\\generated_sample_001.wav",
+    "prompt": "upbeat pop song with piano and drums",
+    "duration": 15.0,
+    "sample_rate": 32000
+  },
+  {
+    "file": "outputs\\generated\\generated_sample_002.wav",
+    "prompt": "melodic pop ballad with guitar",
+    "duration": 15.0,
+    "sample_rate": 32000
+  }
+]
